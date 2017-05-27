@@ -1,0 +1,77 @@
+{
+    "name": "Preditor",
+    "rank": "Blue belt",
+    "available": true,
+    "geometry": { "type": "point", "coordinates": [40.0683, -82.4612] }
+}
+
+{
+    "name": "Yoshi",
+    "rank": "Red belt",
+    "available": true,
+    "geometry": { "type": "point", "coordinates": [39.1276, 35.2577] }
+}
+
+{
+    "name": "Spainiard",
+    "rank": "Blue belt",
+    "available": true,
+    "geometry": { "type": "point", "coordinates": [41.3829, 2.1800] }
+}
+
+{
+    "name": "Jade",
+    "rank": "Brown belt",
+    "available": true,
+    "geometry": { "type": "point", "coordinates": [-32.083, -52.166] }
+}
+
+{
+    "name": "Baraka",
+    "rank": "Brownish belt",
+    "available": true,
+    "geometry": { "type": "point", "coordinates": [-30.789, 121.462] }
+}
+
+
+{
+    "name": "Goro",
+    "rank": "Blue-Night belt",
+    "available": true,
+    "geometry": { "type": "point", "coordinates": [-28.321, 31.416] }
+}
+
+{
+    "name": "Jade",
+    "rank": "Yellow belt",
+    "available": true,
+    "geometry": { "type": "point", "coordinates": [-26.524, 29.17] }
+}
+
+{
+    "name": "Scorpion",
+    "rank": "Green belt",
+    "available": true,
+    "geometry": { "type": "point", "coordinates": [-26.081, 27.726] }
+}
+
+{
+    "name": "Jax",
+    "rank": "Orange belt",
+    "available": true,
+    "geometry": { "type": "point", "coordinates": [-19.151, 33.429] }
+}
+
+{
+    "name": "Kabal",
+    "rank": "A belt",
+    "available": true,
+    "geometry": { "type": "point", "coordinates": [-17.49, -149.762] }
+}
+
+{
+    "name": "Kitana",
+    "rank": "White belt",
+    "available": true,
+    "geometry": { "type": "point", "coordinates": [-8.642, 25.253] }
+}
